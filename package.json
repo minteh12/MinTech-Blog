@@ -6,8 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "build": "echo 'No build step defined'",
-    "vercel-build": "echo 'Custom Vercel build command'",
+    "build": "echo 'Running build step...'",
+    "vercel-build": "echo 'Custom Vercel build command'"
   },
   "keywords": [],
   "author": "",
