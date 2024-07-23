@@ -10,6 +10,6 @@ View posts in chronological order, showcasing the latest updates first.
 - Secure and scalable with MongoDB and Node.js
   
 # Application Areas:
--Content Management Systems (CMS)
--Educational Platforms
--Corporate Communication
+- Content Management Systems (CMS)
+- Educational Platforms
+- Corporate Communication
